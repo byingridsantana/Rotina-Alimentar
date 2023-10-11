@@ -73,19 +73,19 @@ th {
 }
 
 .mae::marker {
-    color: #F23041
+    color: #e09f947a
 }
 
 .pai::marker {
-    color: #736B02
+    color: #94696263
 }
 
 .filha::marker{
-    color:#F288A4
+    color:#6b4c4759
 }
     
 .filho::marker{
-    color:#F26430
+    color:#422f2c4f
 }
 
 .listas-nao-ordenada li{
